@@ -1,6 +1,6 @@
 //'https://cors-anywhere.herokuapp.com/https://fonts.googleapis.com/icon?family=Materializa+Icons'
-const staticCacheName = 'site-static-v2';
-const dynamicCacheName = 'site-dynamic-v2';
+const staticCacheName = 'site-static-v3';
+const dynamicCacheName = 'site-dynamic-v8';
 const assets = [
   '/',
   '/index.html',
